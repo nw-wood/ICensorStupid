@@ -1,8 +1,8 @@
 {
-    "name": "No_Lab_Names",
+    "name": "ICensorStupid",
     "version": "2.0.0",
     "factorio_version": "2.0",
-    "title": "No Lab Names",
+    "title": "ICensorStupid",
     "author": "Preston Lee ℭole, nathanyelw@gmail.com",
     "contact": "nathanyelw@gmail.com",
     "description": "Because you don't want to be reminded of the existence of brownslurper420 while building a train network or laboratory farm. Removes random backer names from newly built and existing Labs, Roboports, Radars, Train stops, and Locomotives across all surfaces.",

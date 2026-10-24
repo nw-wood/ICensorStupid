@@ -1,4 +1,4 @@
-# No Lab Names (v2.0.0)
+# ICensorStupid (v2.0.0)
 
 **Factorio 2.0 Mod** — Removes random backer names from newly built and existing **Labs**, **Roboports**, **Radars**, **Train stops**, and **Locomotives** across all surfaces.
 
@@ -15,7 +15,7 @@
 - Covers `lab`, `roboport`, `radar`, `train-stop`, and `locomotive` prototypes.
 
 ## Installation
-Download `No_Lab_Names_2.0.0.zip` from [GitHub Releases](https://github.com/nw-wood/No_Lab_Names/releases) (or `dist/releases/No_Lab_Names_2.0.0.zip`) and place it in your Factorio `mods/` directory.
+Download `ICensorStupid_2.0.0.zip` from [GitHub Releases](https://github.com/nw-wood/ICensorStupid/releases) and place it in your Factorio `mods/` directory.
 
 ## License
 Licensed under the [GNU General Public License v3.0](LICENSE.md).
