@@ -1,0 +1,25 @@
+{
+    "name": "No_Lab_Names",
+    "version": "2.0.0",
+    "factorio_version": "2.0",
+    "title": "No Lab Names",
+    "author": "Preston Lee ℭole, nathanyelw@gmail.com",
+    "contact": "nathanyelw@gmail.com",
+    "description": "Because you don't want to be reminded of the existence of brownslurper420 while building a train network or laboratory farm. Removes random backer names from newly built and existing Labs, Roboports, Radars, Train stops, and Locomotives across all surfaces.",
+    "dependencies": [
+        "base >= 2.0.0"
+    ],
+    "package": {
+        "ignore": [
+            "**/*.psd",
+            "*.jpg",
+            "Mod Portal/*"
+        ],
+        "scripts": {}
+    },
+    "quality_required": false,
+    "space_travel_required": false,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false
+}

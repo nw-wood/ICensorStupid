@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2026-10-24
+  Changes:
+    - Updated to Factorio 2.0 (nathanyelw@gmail.com)
+    - Fixed on_built_entity event handler to use event.entity instead of event.created_entity
+    - Added support for robot, space platform, and script-raised build/revive events
+    - Extended backer name removal to cover all surfaces as well as train stops and locomotives
+    - Added GNU General Public License v3.0 (LICENSE.md)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2022-07-18
+  Info:
+    - Initial release for Factorio 1.1
