@@ -1,10 +1,10 @@
-# ICensorStupid (v2.0.0)
+# ICensorStupid (v2.0.1)
 
 **Factorio 2.0 Mod** — Removes random backer names from newly built and existing **Labs**, **Roboports**, **Radars**, **Train stops**, and **Locomotives** across all surfaces.
 
 > *"Because you don't want to be reminded of the existence of brownslurper420 while building a train network or laboratory farm."*
 
-## Features (v2.0.0)
+## Features (v2.0.1)
 - Updated for **Factorio 2.0** (`base >= 2.0.0`).
 - Automatically clears backer names on all existing surfaces upon game init, configuration changes, and cutscene completion.
 - Clears backer names immediately when entities are built via:
@@ -15,7 +15,7 @@
 - Covers `lab`, `roboport`, `radar`, `train-stop`, and `locomotive` prototypes.
 
 ## Installation
-Download `ICensorStupid_2.0.0.zip` from [GitHub Releases](https://github.com/nw-wood/ICensorStupid/releases) and place it in your Factorio `mods/` directory.
+Download `ICensorStupid_2.0.1.zip` from [GitHub Releases](https://github.com/nw-wood/ICensorStupid/releases) and place it in your Factorio `mods/` directory.
 
 ## License
 Licensed under the [GNU General Public License v3.0](LICENSE.md).
