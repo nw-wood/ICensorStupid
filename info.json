@@ -1,11 +1,11 @@
 {
     "name": "ICensorStupid",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "factorio_version": "2.0",
     "title": "ICensorStupid",
     "author": "nathanyelw@gmail.com",
     "contact": "nathanyelw@gmail.com",
-    "description": "Because you don't want to be reminded of the existence of brownslurper420 while building a train network or laboratory farm. Removes random backer names from newly built and existing Labs, Roboports, Radars, Train stops, and Locomotives across all surfaces.",
+    "description": "Because you don't want to be reminded of the existence of brownslurper420 while building a train network or laboratory farm. Removes random backer names from newly built and existing Labs, Roboports, Radars, and Locomotives, renames default Train stops to 'Train stop', and renames default Space platforms to 'Space station'.",
     "dependencies": [
         "base >= 2.0.0"
     ],

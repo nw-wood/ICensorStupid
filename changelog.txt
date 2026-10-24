@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 2026-10-24
+  Changes:
+    - Fixed Train stops and ghost Train stops to replace default backer names with "Train stop"
+    - Added automatic renaming of newly created and existing Space platforms with default backer names to "Space station"
+    - Embedded complete backer lookup table (backers.lua) for reliable scrubbing across all saves
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
 Date: 2026-10-24
   Changes:
